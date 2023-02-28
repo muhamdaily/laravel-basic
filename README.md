@@ -47,11 +47,11 @@ $ php artisan migrate
 $ php artisan serve
 ```
 
-7. Buka browser Anda dan akses URL `http://localhost:8000`. Anda akan melihat halaman utama yang menampilkan daftar postingan.
+7. Buka browser Anda dan akses URL `http://localhost:8000`. Anda akan melihat halaman utama yang menampilkan halaman welcome.
 
-8. Untuk membuat postingan baru, klik tombol "Create Post" dan isi formulir yang muncul.
+8. Untuk membuat data barang, akses URL `http://localhost:8000/barang`. Anda akan melihat tombol untuk tambah data.
 
-9. Untuk mengedit atau menghapus postingan yang sudah ada, klik tombol "Edit" atau "Delete" di samping postingan yang ingin Anda ubah atau hapus.
+9. Untuk mengedit atau menghapus data barang yang sudah ada, klik tombol "Ubah" atau "Hapus" di dalam tabel yang digunakan untuk menampilkan datanya.
 
 ## Kontribusi
 
